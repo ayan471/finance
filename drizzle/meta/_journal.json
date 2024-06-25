@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718896828099,
+      "tag": "0000_amused_johnny_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718898331457,
+      "tag": "0001_big_iron_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1719123149836,
+      "tag": "0002_dusty_shard",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1719209981077,
+      "tag": "0003_careless_wrecking_crew",
+      "breakpoints": true
+    }
+  ]
+}
